@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+
+:root {
+      --bs-body-font-family: 'Festive', cursive;
+}
+
+html, body{
+    min-height: 100%;
+}
+
+h1 span:first-child{
+    font-weight: 600;
+}
+
+a{
+    color: #ff007b;
+    text-decoration: none;
+}
+
+body{
+  background-color: rgb(69, 3, 17);
+}
+
+span {
+  color:white;
+}
